@@ -1,0 +1,15 @@
+{
+  "name": "calc-agrs-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "node app.js add",
+    "sub": "node app.js sub",
+    "mul": "node app.js mul",
+    "divide": "node app.js divide"
+  },
+  "author": "Pratik Sah",
+  "license": "ISC"
+}
